@@ -151,20 +151,18 @@ html {
 }
 
 .home-image > img {
-    width: 320px;
+    width: 380px;
     height: auto;
     position: relative;
     z-index: 100000;
     top: 15px;
-    margin: 0px 40px;
 }
 
 .home-description > h1{
-    font-size: 58px;
+    font-size: 50px;
     color: #ffffff;
     line-height: 70px;
     font-weight: 600;
-    word-spacing: 1px;
     margin-top: 20px;
 }
 
